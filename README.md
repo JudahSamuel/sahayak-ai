@@ -89,6 +89,5 @@ JAYADEEP GOWDA
 
 ---
 
-## 📌 Note
-SAHAYAK AI is an informational and workflow guidance system.  
-It does not directly submit applications to government portals in the MVP version.
+##  Note
+SAHAYAK AI is just an informational and workflow guidance system.  

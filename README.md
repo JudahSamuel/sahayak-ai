@@ -82,10 +82,10 @@ Millions of eligible citizens fail to access welfare schemes due to:
 ---
 
 ##  Team
-LASYA SURESH
-JUDAH SAMUEL
-S LIKHITH ACHARI
-JAYADEEP GOWDA
+- LASYA SURESH
+- JUDAH SAMUEL
+- S LIKHITH ACHARI
+- JAYADEEP GOWDA
 
 ---
 

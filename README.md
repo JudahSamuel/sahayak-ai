@@ -1,9 +1,9 @@
-# SAHAYAK AI 🇮🇳🎙️  
+# SAHAYAK AI 
 **Voice-first AI assistant for rural India to access government schemes and public services.**
 
 ---
 
-## 📌 Overview
+##  Overview
 SAHAYAK AI is a serverless, multilingual, voice-first AI assistant built on AWS that helps citizens in rural India:
 - Discover relevant government welfare schemes and public services  
 - Check eligibility using structured questions  
@@ -15,7 +15,7 @@ The solution is designed for **low-bandwidth connectivity** and **low digital li
 
 ---
 
-## 🎯 Problem
+##  Problem
 Millions of eligible citizens fail to access welfare schemes due to:
 - Lack of awareness
 - Language barriers
@@ -25,7 +25,7 @@ Millions of eligible citizens fail to access welfare schemes due to:
 
 ---
 
-## ✅ Key Features
+##  Key Features
 - **Voice-first interface** (speech-to-text and multilingual support)
 - **Scheme discovery & recommendation**
 - **Eligibility checker** with explainable results
@@ -41,7 +41,7 @@ Millions of eligible citizens fail to access welfare schemes due to:
 
 ---
 
-## ☁️ AWS Services Used
+##  AWS Services Used
 - **Amazon Bedrock** – LLM for reasoning, response generation, and workflow generation  
 - **Amazon S3** – storage for official PDFs and portal content  
 - **Amazon OpenSearch (Vector Search)** – RAG retrieval layer  
@@ -54,7 +54,7 @@ Millions of eligible citizens fail to access welfare schemes due to:
 
 ---
 
-## 🧪 Demo Scenarios (MVP)
+##  Demo Scenarios (MVP)
 1. **Scholarship Discovery**
    - User: “I’m a student, OBC, income 80k, Karnataka”
    - Output: Eligible schemes + required documents + step-by-step process + application letter draft
@@ -69,20 +69,23 @@ Millions of eligible citizens fail to access welfare schemes due to:
 
 ---
 
-## 📂 Repository Files
+##  Repository Files
 - `requirements.md` – System requirements generated using Kiro (Spec phase)
 - `design.md` – System design generated using Kiro (Design phase)
 - `README.md` – Project summary and submission overview
 
 ---
 
-## 🏁 Hackathon Track
+##  Hackathon Track
 **AI for Communities, Access & Public Impact**
 
 ---
 
-## 👥 Team
-(Replace with your team details)
+##  Team
+LASYA SURESH
+JUDAH SAMUEL
+S LIKHITH ACHARI
+JAYADEEP GOWDA
 
 ---
 

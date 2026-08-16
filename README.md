@@ -90,4 +90,4 @@ Millions of eligible citizens fail to access welfare schemes due to:
 ---
 
 ##  Note
-SAHAYAK AI is just an informational and workflow guidance system.  
+SAHAYAK AI is just an informational and workflow guidance system.
